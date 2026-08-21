@@ -1,0 +1,6 @@
+{
+  "name": "Semantic Content Mapper",
+  "description": "Analyze any website domain to map content pillars, topic clusters, semantic gaps, entity coverage, and internal linking recommendations with an AI-generated content roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
