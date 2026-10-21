@@ -553,7 +553,7 @@ export default function App() {
       {/* Corporate footer featuring Ami - SEO Girl */}
       <footer className="bg-slate-900 border-t border-slate-800 py-6 px-6 mt-12 text-slate-400 text-xs" id="app-footer">
         <div className="max-w-7xl mx-auto text-[11px] text-slate-500 text-center flex flex-col sm:flex-row items-center justify-between gap-2">
-          <p>© 2026 SemanticMapper Inc. Developed by Ami - SEO Girl. All rights reserved.</p>
+          <p>© 2026 Semantic Content Mapper. Developed by <strong>SEO Girl - Ami</strong>. All rights reserved.</p>
           <p className="text-slate-400">Enterprise Topical Authority & Entity Graph Engine • Designed for Modern Search</p>
         </div>
       </footer>
